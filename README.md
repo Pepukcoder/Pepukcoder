@@ -4,6 +4,7 @@
 
 &emsp; <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="DotNet"><img src="icons/dotnet.png" /></a>
+<a href="https://avaloniaui.net" title="AvaloniaUI"><img src="icons/avalonia.png"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="VB.Net"><img src="icons/vbnet.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
